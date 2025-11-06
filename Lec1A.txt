@@ -1,0 +1,123 @@
+Lec1
+
+Finding trivial (patterns) in confounding (sample data)
+claims -> proofs
+
+mystery -> experimental design -> tools (determine truth from noise)
+load data -> data manipulation -> statistics
+
+mystery: longitivity (lifespan)
+"why does some ppl live longer?"
+determinants / contributing factors that can cause / related to longer life expectancy.
+
+experiment, collect data
+- Take a guess
+    Make an assumption on why ...
+- Find clues
+    Collect data related to hypothesis
+    (eg, related to economic -> collect economic data)
+- Do study
+    Create a test what actaully CAUSES the effect (eg longer life)
+
+experimental design
+Formulate theory
+Develop hypothesis
+Design experiment <- Experimental design
+    Systematic design
+Collect & analyze data
+
+1. Randomized Controlled Trial (RCT)
+Physicians' Health Study (1980s)
+QUESTION: Can asprin lead to longer life?
+METHOD: Massive, double-blind RCT w/ doctors
+    DOUBLE-BLIND = no one knows which one is asprin
+    RANDOM = completely no influence, separate into random group
+    CONTROLLED = asprin is only changing factor
+Some randomly take asprin (experiment), some take PLACEBO (a dummy pill) Fair Test (control)
+RESULT: Asprin grp -44% heat attack
+=> RCT can prevent heart attacks
+
+2. data analysis
+retroperspective: looking back
+look backwards
+    looking back at crime evidence after the fact
+perspective: looking forward # if can
+    collect patients into groups / follow patients
+    following suspects to see what they do next
+
+3. Statistics
+a. Describe evidence
+mean median variance
+b. Testing theory
+null vs alternative
+c. solve
+p-value & alpha
+
+mean: add up and divide
+median: middle
+mode: most frequent
+variance (spread): average squared difference from how far each number is deviated from mean.
+std: sqrt(var)
+
+Hypothesis testing
+proposition tha tresearcher wish to verify
+
+test:
+1. Null hypothesis (H0)
+    Assume there is no effect or difference between two variables
+2. Alternative hypothesis (H1)
+    Suggest there is an effect
+
+inclusion criteria
+
+eg. all boys are taller
+    assertion / claim: all boys are taller
+    develop null hypothesis: mean of distribution of height of male has no significant diff. with heights of fem. students
+        T-distribution if null hypothesis is difference between two groups
+    if p-value too low or too high reject hypothesis, even if difference is of a certain level
+    -> alternative hypothesis is true.
+
+bell cur. -> p-value
+    middle = most evidence point to ...
+    extreme = most evidence does not
+    5% is rare enough
+    p < 0.05: very unlikely for null hypothesis to occur -> statistically significant
+    positive corerelation / negative correlation / no correlation
+
+independent variables
+    what we control
+
+dependent variables
+    measured
+
+controls
+    kept constant
+
+correlation
+    two variables move tgt. one change the other change
+    +ve: both incr tgt
+    -ve: one incr, other decr
+causion (causitive / causual claim)
+    one variable influences or causes a change in another
+    direct link: clear cause-and-effect relationship - flip switch -> light on
+    eg. asprin. retrospective studies are harder
+    experimentation: needs controlled variables to prove
+confounding factor
+
+LINEAR REGRESSION
+least squares regression
+
+predicting outcome: find straight line that best describes relationship
+best fit line: min dist. between all data pts. most accurate
+make informed guesses
+
+y = \beta_0 + \beta_1 x_1 + \epsilon
+y: trying to predict
+\beta_0: baseline: expected when x is 0
+\beta_1: clue impact
+x_1: indep. var
+\epsilon: unexplained factors - clues can't solve. random variation / factors
+
+magnitude of each factor measured by \beta_n
+
+ASSIGNMENT DUE 31 DEC!!
