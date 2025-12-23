@@ -1,0 +1,63 @@
+1. Performing thorough literature synthesis (systematic review)
+2. Using structured frameworks (PICOS) to dissect evidence
+3. Recognizing where evidence is missing
+4. Understanding why gaps exist
+5. Translating gaps into priorities for new research to enhance clinical decision-making
+
+Eg smokers
+how to convert smokers?
+- dig into smokers
+    -> ethical? ask ppl about trauma experience
+    -> possible?
+    => some projects are not possible to be done, as harm can be done on subjects
+
+implementation science
+"is a research going to impact human future?"
+discover, create ideal pathways | in real life, never implemented
+15 years for first line clinical practitioners to change their ways to comply with new studies
+
+"is the research results going to be implemented"
+barrier, facilitators
+
+evidence -> intervention -> context -> implementation strategies -> outcomes (effectiveness, adoption, sustainability)
+studies -> evidence-based practices -> organizational culture, resource availability, staff attitudes -> improved results
+
+factors to consider (consolidated framework for Implementation research)
+intervention characteristics, inner setting, implementation process, characteristics of individuals, outer setting
+
+lung cancer
+1. non-small cell cancer
+mediastinum and hilar lymph node
+2. small cell cancer
+brain, liver...
+
+"do not fabricate factors or numbers, write solely according to the file. output in authentic academic British-style British English"
+雙重保障
+
+PICO
+Population / Problem, Intervention / Exposure, Comparison, Outcome
+
+For ... (P), how does (I) affect (O) compared to (C)
+
+MeSH word = preassigned words to search for smth
+-> may need to use AI
+
+creating literature table
+
+Author, Year, Study Design, Population, Main findings, Limitations
+"your supervisor would like to see..."
+
+- do not ask AI to refer to previous prompts. always save output
+- create systematic file names
+
+evidence synthesis
+-> answering research questions by literature
+"conduct evidence synthesis based on.... output in layman terms"
+effect modifiers: barriers...
+
+consider socio-economic conditions
+
+produce 2 versions
+- pro versions / jargon version
+- layman version
+    need good balance of jargon and layman terms. some layman terms may not be comprehensible enough. around F4 eng

@@ -1,0 +1,511 @@
+
+5. Cochrane Database Syst Rev. 2020 May 7;5(5):CD013212. doi: 
+10.1002/14651858.CD013212.pub2.
+
+Screening strategies for hypertension.
+
+Schmidt BM(1), Durao S(1), Toews I(2), Bavuma CM(3), Hohlfeld A(1), Nury E(2), 
+Meerpohl JJ(2), Kredo T(1).
+
+Author information:
+(1)Cochrane South Africa, South African Medical Research Council, Cape Town, 
+South Africa.
+(2)Institute for Evidence in Medicine, Medical Center - University of Freiburg, 
+Faculty of Medicine, University of Freiburg, Freiburg, Germany.
+(3)College of Medicine and Health Science, University of Rwanda, Kigali, Rwanda.
+
+Update of
+    doi: 10.1002/14651858.CD013212.
+
+BACKGROUND: Hypertension is a major public health challenge affecting more than 
+one billion people worldwide; it disproportionately affects populations in low- 
+and middle-income countries (LMICs), where health systems are generally weak. 
+The increasing prevalence of hypertension is associated with population growth, 
+ageing, genetic factors, and behavioural risk factors, such as excessive salt 
+and fat consumption, physical inactivity, being overweight and obese, harmful 
+alcohol consumption, and poor management of stress. Over the long term, 
+hypertension leads to risk for cardiovascular events, such as heart disease, 
+stroke, kidney failure, disability, and premature mortality. Cardiovascular 
+events can be preventable when high-risk populations are targeted, for example, 
+through population-wide screening strategies. When available resources are 
+limited, taking a total risk approach whereby several risk factors of 
+hypertension are taken into consideration (e.g. age, gender, lifestyle factors, 
+diabetes, blood cholesterol) can enable more accurate targeting of high-risk 
+groups. Targeting of high-risk groups can help reduce costs in that resources 
+are not spent on the entire population. Early detection in the form of screening 
+for hypertension (and associated risk factors) can help identify high-risk 
+groups, which can result in timely treatment and management of risk factors. 
+Ultimately, early detection can help reduce morbidity and mortality linked to it 
+and can help contain health-related costs, for example, those associated with 
+hospitalisation due to severe illness and poorly managed risk factors and 
+comorbidities.
+OBJECTIVES: To assess the effectiveness of different screening strategies for 
+hypertension (mass, targeted, or opportunistic) to reduce morbidity and 
+mortality associated with hypertension.
+SEARCH METHODS: An Information Specialist searched the Cochrane Register of 
+Studies (CRS-Web), the Cochrane Central Register of Controlled Trials (CENTRAL), 
+MEDLINE, Embase, Latin American Caribbean Health Sciences Literature (LILACS) 
+Bireme, ClinicalTrials.gov, and the World Health Organization International 
+Clinical Trials Registry Platform (WHO ICTRP) without language, publication 
+year, or publication status restrictions. The searches were conducted from 
+inception until 9 April 2020.
+SELECTION CRITERIA: Randomised controlled trials (RCTs) and non-RCTs (NRCTs), 
+that is, controlled before and after (CBA), interrupted time series (ITS), and 
+prospective analytic cohort studies of healthy adolescents, adults, and elderly 
+people participating in mass, targeted, or opportunistic screening of 
+hypertension.
+DATA COLLECTION AND ANALYSIS: Screening of all retrieved studies was done in 
+Covidence. A team of reviewers, in pairs, independently assessed titles and 
+abstracts of identified studies and acquired full texts for studies that were 
+potentially eligible. Studies were deemed to be eligible for full-text screening 
+if two review authors agreed, or if consensus was reached through discussion 
+with a third review author. It was planned that at least two review authors 
+would independently extract data from included studies, assess risk of bias 
+using pre-specified Cochrane criteria, and conduct a meta-analysis of 
+sufficiently similar studies or present a narrative synthesis of the results.
+MAIN RESULTS: We screened 9335 titles and abstracts. We identified 54 
+potentially eligible studies for full-text screening. However, no studies met 
+the eligibility criteria.
+AUTHORS' CONCLUSIONS: There is an implicit assumption that early detection of 
+hypertension through screening can reduce the burden of morbidity and mortality, 
+but this assumption has not been tested in rigorous research studies. 
+High-quality evidence from RCTs or programmatic evidence from NRCTs on the 
+effectiveness and costs or harms of different screening strategies for 
+hypertension (mass, targeted, or opportunistic) to reduce hypertension-related 
+morbidity and mortality is lacking.
+
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD013212.pub2
+PMCID: PMC7203601
+PMID: 32378196 [Indexed for MEDLINE]
+
+Conflict of interest statement: BS: nothing to declare. SD: nothing to declare. 
+IT: nothing to declare. CMB: nothing to declare. AH: nothing to declare. EN: 
+nothing to declare. JJM: nothing to declare. TK: nothing to declare.
+
+
+22. BMJ Open. 2017 Oct 8;7(10):e016581. doi: 10.1136/bmjopen-2017-016581.
+
+Impacts of undetected and inadequately treated hypertension on incident stroke 
+in China.
+
+Han TS(1)(2), Wang HH(3)(4), Wei L(5), Pan Y(6), Ma Y(7), Wang Y(8), Wang J(9), 
+Hu Z(7), Sharma P(1)(2)(10), Chen R(11).
+
+Author information:
+(1)Institute of Cardiovascular Research, Royal Holloway University of London 
+(ICR2UL), Egham, UK.
+(2)Department of Endocrinology, Ashford and St Peter's NHS Foundation Trust, 
+Surrey, UK.
+(3)School of Public Health, School of Public Health, Sun Yat-Sen University, 
+Guangzhou, China.
+(4)General Practice and Primary Care, Institute of Health and Wellbeing, Glasgow 
+University, Glasglow, UK.
+(5)Department of Practice and Policy, University College London, London, UK.
+(6)Department of Neurology, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China.
+(7)School of Health Administration, Anhui Medical University, Hefei, China.
+(8)Pojen General Hospital, Taipei, China.
+(9)School of Public Health, Guangzhou Medical University, Guangzhou, China.
+(10)Department of Medicine, Imperial College London NHS Trust, London, UK.
+(11)Centre for Health and Social Care Improvement, Faculty of Education, Health 
+and Wellbeing, Wolverhampton University, Wolverhampton, UK.
+
+OBJECTIVES: China carries the greatest burden of stroke given its largest volume 
+of people with hypertension. This study assessed the impacts of suboptimal 
+controls of hypertension on incident stroke and projected the number of patients 
+with stroke saved after the control of blood pressure improved in population.
+SETTING: Anhui, China.
+PARTICIPANTS: We examined data from the Anhui cohort of 2001-2011, consisting of 
+3336 participants aged ≥60 years who were randomly recruited from the urban and 
+rural Anhui. 2852 participants (89.2%) had hypertensive status measured and no 
+stroke at baseline, and were followed up until 2011 in three surveys using a 
+standard method of interview.
+RESULTS: At baseline, 1646 participants (57.7%) were identified to have 
+hypertension, among whom 912 (55.4%) were previously undetected, 115 (7.0%) 
+detected but not treated, 452 (27.5%) treated but not controlled and only 127 
+(7.7%) controlled. During the 10-year follow-up, 211 incident stroke cases 
+(12.8/1000 person-years) occurred. Compared with normotensive individuals at 
+baseline, multivariate adjusted HR for having stroke increased in those with 
+undetected hypertension by 1.63 (95%CI 1.15 to 2.32), untreated by 2.21 
+(1.26-3.85) and uncontrolled hypertension by 3.34 (2.28-4.88), but did not 
+differ from those with controlled hypertension (1.34; 0.60-2.99). Based on a 
+two-fold increase in the detection and management of current levels of 
+hypertension and algorithms on the current situation in China, approximately 
+250 000 incident stroke cases could be prevented annually.
+CONCLUSIONS: In China, hypertension is frequently undetected or inadequately 
+treated. With appropriate management of hypertension, a substantial number of 
+people could be saved form stroke.
+
+© Article author(s) (or their employer(s) unless otherwise stated in the text of 
+the article) 2017. All rights reserved. No commercial use is permitted unless 
+otherwise expressly granted.
+
+DOI: 10.1136/bmjopen-2017-016581
+PMCID: PMC5640060
+PMID: 28993383 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+8. Stroke Vasc Neurol. 2021 Sep;6(3):352-358. doi: 10.1136/svn-2020-000526. Epub 
+2021 Jan 19.
+
+Ambulatory blood pressure profile and stroke recurrence.
+
+Xu J(1)(2), Jiang F(3), Wang A(1)(2), Zhi H(4), Gao Y(5), Tian J(6), Mo J(1)(2), 
+Chen Z(1)(2), Xu AD(7), Luo B(8), Hu B(9), Zhang Y(10), Zhao X(1)(2), Wang 
+Y(1)(2), Li H(2), Shen H(11), Wang Y(12)(2).
+
+Author information:
+(1)Department of Neurology, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China.
+(2)China National Clinical Research Center for Neurological Diseases (NCRCND), 
+Beijing Tiantan Hospital, Capital Medical University, Beijing, China.
+(3)Department of Statistics and Actuarial Sciences, University of Hong Kong, 
+Hong Kong, China.
+(4)Biostatistics and Clinical Research Methodology Unit, Faculty of Medicine, 
+University of Hong Kong, Hong Kong, China.
+(5)Department of Neurology, The First Affiliated Hospital of Zhengzhou 
+University, Zhengzhou, Henan, China.
+(6)Department of Cardiology, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China.
+(7)Department of Neurology and Stroke Center, The First Affiliated Hospital of 
+Jinan University, Guangzhou, Guangdong, China.
+(8)Department of Neurology and Brain Medical Centre, The First Affiliated 
+Hospital, School of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.
+(9)Department of Neurology, Union Hospital, Tongji Medical College, Huazhong 
+University of Science and Technology, Wuhan, Hubei, China.
+(10)Division of Hypertension, National Center for Cardiovascular Disease China, 
+Fuwai Hospital, Beijing, China.
+(11)Faculty of Business and Economics, University of Hong Kong, Hong Kong, China 
+yongjunwang@ncrcnd.org.cn shenhaipeng@gmail.com.
+(12)Department of Neurology, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China yongjunwang@ncrcnd.org.cn shenhaipeng@gmail.com.
+
+OBJECTIVES: To establish a new ambulatory blood pressure (ABP) parameter 
+(24-hour ABP profile) and evaluated its performance on stroke outcome in 
+ischaemic stroke (IS) or transient ischaemic attack (TIA) patients.
+METHODS: The prospective cohort consisted of 1996 IS/TIA patients enrolled for 
+ABP monitoring and a 3-month follow-up for stroke recurrence as outcome. Profile 
+groups of systolic blood pressure (SBP) were identified via an advanced 
+functional clustering method, and the associations of the profile groups and 
+conventional ABP parameters with stroke recurrence were examined in a Cox 
+proportional hazards model.
+RESULTS: Three discrete profile groups (n=604, 781 and 611 in profiles 1, 2 and 
+3, respectively) in 24-hour ambulatory SBP were identified. Profile 1 resembled 
+most to the normal diurnal blood pressure pattern; profile 2 also dropped at 
+night, but climbed earlier and with higher morning surge; while profile 3 had 
+sustained higher nocturnal SBP without significant nocturnal SBP decline. The 
+incidence of stroke recurrence was 2.9%, 3.9% and 5.5% in profiles 1, 2 and 3, 
+respectively. After adjustment for covariates, profile 3 was significantly 
+associated with higher risk of stroke recurrence with profile 1 as reference (HR 
+1.76, 95% CI: 1.00 to 3.09), while no significant difference was observed 
+between profiles 2 and 1 (HR 1.22, 95% CI: 0.66 to 2.25). None of conventional 
+ABP parameters showed significant associations with the outcome.
+CONCLUSIONS: Ambulatory 24-hour SBP profile is associated with short-term stroke 
+recurrence. Profiles of ABP may help improve identification of stroke recurrence 
+by capturing the additive effects of individual ABP parameters.
+
+© Author(s) (or their employer(s)) 2021. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/svn-2020-000526
+PMCID: PMC8485247
+PMID: 33468639 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+10. Curr Med Sci. 2019 Oct;39(5):741-747. doi: 10.1007/s11596-019-2100-9. Epub 2019 
+Oct 14.
+
+Visit-to-visit Systolic Blood Pressure Variability and Stroke Risk: A Systematic 
+Review and Meta-analysis.
+
+Wang H(1)(2), Li M(3), Xie SH(3), Oyang YT(3), Yin M(3), Bao B(2), Chen ZY(4), 
+Yin XP(5).
+
+Author information:
+(1)Department of Outpatient, The First Affiliated Hospital of Nanchang 
+University, Nanchang, 330000, China.
+(2)Department of Neurology, The Affiliated Hospital of Jiujiang University, 
+Jiujiang, 332000, China.
+(3)Department of Neurology, The Second Affiliated Hospital of Nanchang 
+University, Nanchang, 330000, China.
+(4)Department of Neurology, The Affiliated Hospital of Jiujiang University, 
+Jiujiang, 332000, China. 13767263459@126.com.
+(5)Department of Neurology, The Affiliated Hospital of Jiujiang University, 
+Jiujiang, 332000, China. xiaopingbuxiao@126.com.
+
+Visit-to-visit variability in systolic blood pressure (SBP) may have an 
+important additional role in increasing the risk of vascular complications, 
+including stroke. We conducted a meta-analysis to assess the relationship 
+between visit-to-visit SBP variability (SBPV) and stroke risk. PubMed, EMBASE, 
+and the Cochrane library databases were searched for cohort studies with data on 
+visit-to-visit SBPV and stroke risk. Studies that reported adjusted relative 
+risks (RRs) with 95% CIs of stroke associated with SBPV were included. Fourteen 
+cohort studies met the inclusion criteria and were included in our 
+meta-analysis. After adjustment for age, sex, and existing vascular risk 
+factors, the analysis showed that the risk of stroke in patients with SBPV was 
+significantly increased compared with patients with a small baseline SBPV [SD 
+(RR=1.20, 95% CI=(1.07-1.35), P=0.0005), CV (RR=1.12, 95% CI=(1.00-1.26), 
+P=0.008)]. In addition, follow-up variations of more than 5 years were 
+associated with a higher risk of stroke than those of less than 5 years 
+[RR=1.08, 95% CI=(1.04-1.11)]. Visit-to-visit SBPV was associated with an 
+increased risk of stroke, especially in terms of the time of variation. Taken 
+together, SBPV data may be useful as a preventative diagnostic method in the 
+management of stroke.
+
+DOI: 10.1007/s11596-019-2100-9
+PMID: 31612391 [Indexed for MEDLINE]
+
+
+13. J Clin Hypertens (Greenwich). 2019 Aug;21(8):1108-1114. doi: 10.1111/jch.13599. 
+Epub 2019 Jun 29.
+
+Acute-phase blood pressure trajectories and clinical outcomes in ischemic 
+stroke.
+
+Xu J(1)(2)(3)(4), Dai L(1)(2)(3)(4), Chen Z(1)(2)(3)(4), Wang A(1)(2)(3)(4), Mo 
+J(1)(2)(3)(4), Cheng A(1)(2)(3)(4), Meng X(1)(2)(3)(4), Wang Y(1)(2)(3)(4), Zhao 
+X(1)(2)(3)(4), Wang Y(1)(2)(3)(4); BOSS Study Group.
+
+Author information:
+(1)Department of Neurology, Beijing Tiantan Hospital, Capital Medical 
+University, Beijing, China.
+(2)China National Clinical Research Center for Neurological Diseases, Beijing, 
+China.
+(3)Center of Stroke, Beijing Institute for Brain Disorders, Beijing, China.
+(4)Beijing Key Laboratory of Translational Medicine for Cerebrovascular Disease, 
+Beijing, China.
+
+High blood pressure (BP) is frequent in acute ischemic stroke (IS). However, the 
+impact of BP change patterns during acute phase on clinical outcomes is not 
+conclusive. This study aims to investigate the association between the 
+acute-phase BP trajectories and clinical outcomes in IS patients with high 
+admission BP. The cohort consisted of 316 IS patients with admission systolic BP 
+(SBP) ≥160 mm Hg. SBP trajectories during the first 7 days after onset were 
+characterized using a random effects model. The patients were classified into 
+three groups based on the SBP trajectory curve parameters: sustained high SBP 
+(T1), moderate decrease (T2), and rapid decrease in SBP (T3). Poor outcomes were 
+defined as modified Rankin scale score ≥3 in 3 months after onset. The 
+relationship between SBP trajectory groups and the outcome was examined in 
+multivariable logistic regression models. The decreasing trend was greater in 
+the favorable than in the poor outcome group (P = 0.028 for difference in linear 
+slopes). The incidence of poor outcomes was 25.9%, 13.5%, and 9.8% in T1 
+(n = 54), T2 (n = 170), and T3 (n = 92) groups, respectively. Compared with T1 
+group, the decrease in SBP in T2 and T3 groups was significantly associated with 
+lower risk of the poor outcome (odds ratio = 0.25, 95% confidence 
+interval = 0.10-0.67, P = 0.006). These findings suggest that a decrease in BP 
+in the acute phase is predictive of favorable outcomes in IS patients. BP 
+trajectories have a greater power to detect the association than individual BP 
+values at one time-point.
+
+©2019 Wiley Periodicals, Inc.
+
+DOI: 10.1111/jch.13599
+PMCID: PMC8030386
+PMID: 31256446 [Indexed for MEDLINE]
+
+Conflict of interest statement: There are no conflict of interest.
+
+
+12. J Am Heart Assoc. 2022 Mar 15;11(6):e024158. doi: 10.1161/JAHA.121.024158. Epub 
+2022 Mar 5.
+
+Long-Term Blood Pressure Variability and Major Adverse Cardiovascular and 
+Cerebrovascular Events After Intracerebral Hemorrhage.
+
+Castello JP(1)(2), Teo KC(3), Abramson JR(1)(4)(2), Keins S(1)(4)(2), Takahashi 
+CE(5), Leung IYH(3), Leung WCY(3), Wang Y(3), Kourkoulis C(1)(4)(2), Pavlos 
+Myserlis E(1)(4)(2), Warren AD(1), Henry J(1)(4)(2), Chan KH(3)(6), Cheung 
+RTF(3)(6), Ho SL(3), Gurol ME(1), Viswanathan A(1), Greenberg SM(1), Anderson 
+CD(1)(4)(2), Lau KK(3)(6)(7), Rosand J(1)(4)(2), Biffi A(1)(4)(2).
+
+Author information:
+(1)Department of Neurology Massachusetts General Hospital Boston MA.
+(2)Henry and Allison McCance Center for Brain Health Massachusetts General 
+Hospital Boston MA.
+(3)Department of Medicine Queen Mary HospitalLKS Faculty of MedicineThe 
+University of Hong Kong Hong Kong SAR.
+(4)Center for Genomic Medicine Massachusetts General Hospital Boston MA.
+(5)Department of Neurology Boston Medical Center Boston MA.
+(6)Research Center of HeartBrain, Hormone and Healthy AgingLKS Faculty of 
+MedicineThe University of Hong Kong Hong Kong SAR.
+(7)The State Key Laboratory of Brain and Cognitive Sciences The University of 
+Hong Kong Hong Kong SAR.
+
+Background Survivors of intracranial hemorrhage (ICH) are at increased risk for 
+major adverse cardiovascular and cerebrovascular events (MACCE), in the form of 
+recurrent stroke and myocardial Infarction. We investigated whether long-term 
+blood pressure (BP) variability represents a risk factor for MACCE after ICH, 
+independent of average BP. Methods and Results We analyzed data from prospective 
+ICH cohort studies at Massachusetts General Hospital and the University of Hong 
+Kong. We captured long-term (ie, visit-to-visit) BP variability, quantified as 
+individual participants' variation coefficient. We explored determinants of 
+systolic and diastolic BP variability and generated survival analyses models to 
+explore their association with MACCE. Among 1828 survivors of ICH followed for a 
+median of 46.2 months we identified 166 with recurrent ICH, 68 with ischemic 
+strokes, and 69 with myocardial infarction. Black (coefficient +3.8, SE 1.3) and 
+Asian (coefficient +2.2, SE 0.4) participants displayed higher BP variability. 
+Long-term systolic BP variability was independently associated with recurrent 
+ICH (subhazard ratio [SHR], 1.82; 95% CI, 1.19-2.79), ischemic stroke (SHR, 
+1.62; 95% CI, 1.06-2.47), and myocardial infarction (SHR, 1.54; 95% CI, 
+1.05-2.24). Average BP during follow-up did not modify the association between 
+long-term systolic BP variability and MACCE. Conclusions Long-term BP 
+variability is a potent risk factor for recurrent hemorrhage, ischemic stroke, 
+and myocardial infarction after ICH, even among survivors with well-controlled 
+hypertension. Our findings support the hypothesis that combined control of 
+average BP and its variability after ICH is required to minimize incidence of 
+MACCE.
+
+DOI: 10.1161/JAHA.121.024158
+PMCID: PMC9075304
+PMID: 35253479 [Indexed for MEDLINE]
+
+15. Curr Hypertens Rep. 2013 Dec;15(6):582-9. doi: 10.1007/s11906-013-0384-x.
+
+Hypertension-related stroke prevention in the elderly.
+
+Aronow WS(1).
+
+Author information:
+(1)Cardiology Division, New York Medical College, Macy Pavilion, Room 138, 
+Valhalla, NY, 10595, USA, wsaronow@aol.com.
+
+Hypertension is a major risk factor for cardiovascular events, including 
+ischemic stroke and hemorrhagic stroke. Reduction of blood pressure by lifestyle 
+measures and antihypertensive drug therapy reduces stroke in elderly men and 
+women. The use of diuretics, beta blockers, calcium channel blockers, 
+angiotensin-converting enzyme inhibitors, or angiotensin receptor blockers 
+causes a similar reduction in reducing coronary events and stroke for a given 
+reduction in blood pressure. The American College of Cardiology 
+Foundation/American Heart Association 2011 expert consensus document on 
+hypertension in the elderly recommended that the blood pressure should be 
+reduced to less than 140/90 mm Hg in adults younger than 80 years at high risk 
+for cardiovascular events. On the basis of data from the Hypertension in the 
+Very Elderly trial, these guidelines recommended that the systolic blood 
+pressure should be reduced to 140 to 145 mm Hg if tolerated in adults aged 
+80 years and older. The 2013 European Society of Hypertension guidelines 
+recommended that reducing blood pressure to less than 130/80 mm Hg in adults at 
+high risk for cardiovascular events was unsupported by prospective trial data. 
+The systolic blood pressure should be reduced to less than 140 mm Hg in these 
+adults and to between 140 to 150 mm Hg in adults aged 80 years and older.
+
+DOI: 10.1007/s11906-013-0384-x
+PMID: 23949321 [Indexed for MEDLINE]
+
+
+9. BMC Cardiovasc Disord. 2022 Jul 24;22(1):328. doi: 10.1186/s12872-022-02780-w.
+
+Risk probability and influencing factors of stroke in followed-up hypertension 
+patients.
+
+Li AL(1), Ji Y(2), Zhu S(2), Hu ZH(2), Xu XJ(2), Wang YW(2), Jian XZ(2).
+
+Author information:
+(1)Jiading District Center for Disease Control and Prevention, Shanghai, China. 
+anle_li@aliyun.com.
+(2)Jiading District Center for Disease Control and Prevention, Shanghai, China.
+
+OBJECTIVE: To explore the risk probability and main influencing factors of 
+stroke in followed-up hypertension patients through the analysis of long-term 
+followed-up cohort data.
+METHODS: The method of followed-up observation cohort was used to collect the 
+information of 168,417 followed-up hypertension patients from 2002 to 2020 in 
+Jiading District in Shanghai. Kaplan-Meier method was used to analyze the risk 
+probability of stroke complications in long-term followed-up HTN patients, and 
+the influencing factors were analyzed by Cox proportional risk model.
+RESULTS: Among 168,417 followed-up hypertension patients, 11,143 cases had 
+suffered stroke, and the cumulative incidence rate of stroke was 6.62% (male was 
+6.87%, female was 6.37%). With the extension of the hypertension years, the 
+cumulative risk probability of stroke in HTN patients would continue to increase 
+and the interval was not equidistant. The total cumulative risk probability of 
+stroke in HTN patients was 78.9% (male was 91.0%, female was 70.7%). During the 
+period of hypertension, the risk occurring probability of stroke was not fixed, 
+but fluctuating. There were 4 onset peaks, which were in 8 years (probability 
+was 4.2%), 15 years (probability was 14.0%), 22 years (probability was 6.0%) and 
+26 years (probability was 13.9%). The highest risk probability of male patients 
+was in 26 years (probability was 23.1%), and the second peak was in 15 years 
+(probability was 15.6%). The highest risk probability of female patients was in 
+15 years (probability was 12.9%), and the second peak was in 26 years 
+(probability was 8.7%). The risk probability of different gender, BP grade and 
+BMI was different, the male were at higher risk than the female, stage 3 HTN was 
+higher than stage 2 and stage 1 HTN, obese people and underweight people were at 
+higher risk than those who have normal weight. The main factors closely related 
+to the occurrence of stroke complications were age (RR = 2.917, p < 0.001), body 
+mass index (RR = 1.654, p < 0.001), family history of stroke (RR = 1.386, 
+p < 0.001) and blood pressure grade (RR = 1.148, p < 0.001).
+CONCLUSION: The risk probability of stroke among hypertension patients was high 
+in followed-up hypertension patients (total 78.9%, male 91.0%, female 70.7%), 
+and would continue to increase disproportionately during period of hypertension 
+(4 different onset peaks). With the persistence of hypertension, the risk 
+probability of stroke would increase continuously. Multivariate Cox regression 
+analysis showed that male patients, patients with HBP, abnormal BMI and positive 
+family history were main factors closely related to the occurrence of stroke 
+complications.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12872-022-02780-w
+PMCID: PMC9308930
+PMID: 35871681 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+4. J Psychosom Res. 2021 May;144:110414. doi: 10.1016/j.jpsychores.2021.110414. 
+Epub 2021 Mar 4.
+
+Does life satisfaction reduce risk of incident hypertension and stroke? Evidence 
+from the Whitehall II cohort.
+
+Guimond AJ(1), Kubzansky LD(2), Boehm JK(3), Kivimaki M(4), Trudel-Fitzgerald 
+C(2).
+
+Author information:
+(1)Department of Social and Behavioral Sciences, Harvard T. H. Chan School of 
+Public Health, Boston, MA, USA; Lee Kum Sheung Center for Health and Happiness, 
+Harvard T. H. Chan School of Public Health, Boston, MA, USA. Electronic address: 
+aguimond@hsph.harvard.edu.
+(2)Department of Social and Behavioral Sciences, Harvard T. H. Chan School of 
+Public Health, Boston, MA, USA; Lee Kum Sheung Center for Health and Happiness, 
+Harvard T. H. Chan School of Public Health, Boston, MA, USA.
+(3)Department of Psychology, Chapman University, Orange, CA, USA.
+(4)Department of Epidemiology and Public Health, University College London, 
+London, United Kingdom.
+
+BACKGROUND: Previous studies showed life satisfaction is related to reduced risk 
+of coronary heart disease and diabetes, but its association with other 
+cardiometabolic endpoints including hypertension and stroke remains unexplored. 
+This study examined life satisfaction's prospective association with incident 
+hypertension and stroke in middle-aged adults.
+METHODS: At baseline (1985-1988), 6225 healthy British civil servants aged 35-55 
+from the Whitehall II cohort completed the validated Satisfaction with Life 
+Scale and provided information regarding sociodemographics, a range of 
+health-related factors, and psychological distress. Incident hypertension was 
+ascertained according to clinic-derived measures of systolic or diastolic blood 
+pressure of ≥140/90 mmHg, respectively, or self-reports of either 
+physician-diagnosed hypertension or hypertensive medication use. Incident stroke 
+and transient ischemic attack (TIA) were ascertained by self-reported physician 
+diagnosis. Follow-up assessments occurred every 2-5 years through 2017. Cox 
+proportional hazards regression models estimated hazard ratios (HR) and 95% 
+confidence intervals (CI) of hypertension and stroke/TIA risk separately.
+RESULTS: Over a 31-year follow-up, 2703 cases of hypertension and 370 cases of 
+stroke/TIA occurred. Life satisfaction was not related to risk of developing 
+hypertension but was associated with 12% decreased risk of stroke/TIA after 
+controlling for sociodemographics, health status, and health behaviors (HRper 
+1-SD = 0.88; 95%CI = 0.79-0.98). However, the association was attenuated after 
+adjustment for psychological distress.
+CONCLUSIONS: No robust associations were found between life satisfaction and 
+incident hypertension and stroke/TIA, respectively, after accounting for 
+well-established risk factors and psychological distress. More research is 
+needed to understand why associations of life satisfaction with cardiometabolic 
+health seem to vary across endpoints.
+
+Copyright © 2021 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jpsychores.2021.110414
+PMID: 33711634 [Indexed for MEDLINE]

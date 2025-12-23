@@ -1,0 +1,126 @@
+CODES
+
+Code    Renamed                 Description
+====    =======                 ===========
+    hlth_12
+    -------
+M24B_3   Headache_Last4          Headache in last 4 weeks
+M24B_7   Chestpain_Last4         Chest pain in last 4 weeks
+M24B_14  Exhaustion_Last4        Exhaustion
+M24B_15  Unknown_Bleed_Last4     Bleeding for unknown reasons in last 4 weeks
+M24B_16  Unknown_WghtLoss_Last4  Unknown weight loss in last 4 weeks
+M26      Sought_Medcare          Sought medical care?
+M48      Health_Status           Val#4: BP screening
+
+    pexam_00
+    --------
+BP
+SYSTOL1  Systole_BP1             Systolic BP
+SYSTOL2  Systole_BP2             Systolic BP
+SYSTOL3  Systole_BP3             Systolic BP, take avg among 3
+DIASTOL1 Diastole_BP1            Diastolic BP
+DIASTOL2 Diastole_BP2            Diastolic BP
+DIASTOL3 Diastole_BP3            Diastolic BP, take avg among 3
+
+BMI
+HEIGHT   Height                  Height (cm) -> m
+WEIGHT   Weight                  (kg) -> BMI
+
+HT
+HT       Has_HT                  Has hypertension
+U23      HT_Years                # of years with HT
+U24      HT_OnHTDrugs            Using anti-HT drugs
+
+Diab
+U24A     Has_Diab                Has diabetes
+U24B     Diab_Age                Age diagnosed diabetes
+U24C     Diab_OnDiet             Diab: On special diet
+U24D     Diet_OnWeightCtrl       Diab: Weight ctrl
+U24E     Diab_OnOralMeds         Diab: Taking oral meds
+U24F     Diab_OnInsulin          Diab: Using insulin
+
+MI
+U24J     Has_MI                  Has myocardial infarction
+U24K     MI_Age                  Age diagnosed MI
+
+IS
+U24L     Has_Apopl               Has apoplexy
+U24M     Apopl_Age               Age diagnosed apoplexy
+U24T     IS_Age                  Age first detected w/ stroke / IS
+U24V     Had_Stroke              Stroke in past year
+
+Heart
+U24R     Has_Whistle             Has whistling/wheezing in chest
+U24S     Whistle_Years           Years had whistling/wheezing
+
+Smoking
+U25      Had_Smoke               Ever smoked?
+U26      Age_Smoke               Age started smoking
+U27      Quit_Smoke              Quit smoking?
+U28      Num_Cigs_Day            #cigarettes / day
+
+(Unrelated?)
+U34      Drink_Tea               Drinks tea?
+U35      Freq_Tea                Freq drinking tea
+U36      Avg_Tea_Cups_Day        Avg cups of tea / day
+
+U37      Drink_Coffee            Drinks coffee?
+U38      Freq_Coffee             Freq drinking coffee
+U39      Avg_Coffee_Cups_Day     Avg cups of coffee / day
+
+U40      Drink_Beer              Consumes beer?
+U41      Freq_Beer               Freq consuming beer
+U42      Avg_Beer_Bottles_Day    Avg beer bottles / week
+
+
+
+{
+    "M24B_3"   : "Headache_Last4",
+    "M24B_7"   : "Chestpain_Last4",
+    "M24B_14"  : "Exhaustion_Last4",
+    "M24B_15"  : "Unknown_Bleed_Last4",
+    "M24B_16"  : "Unknown_WghtLoss_Last4",
+    "M26"      : "Sought_Medcare",
+    "M48"      : "Health_Status",
+}
+
+{
+    "SYSTOL1"  : "Systole_BP1",
+    "SYSTOL2"  : "Systole_BP2",
+    "SYSTOL3"  : "Systole_BP3",
+    "DIASTOL1" : "Diastole_BP1",
+    "DIASTOL2" : "Diastole_BP2",
+    "DIASTOL3" : "Diastole_BP3",
+    "HEIGHT"   : "Height",
+    "WEIGHT"   : "Weight",
+    "HT"       : "Has_HT",
+    "U23"      : "HT_Years",
+    "U24"      : "HT_OnHTDrugs",
+    "U24A"     : "Has_Diab",
+    "U24B"     : "Diab_Age",
+    "U24C"     : "Diab_OnDiet",
+    "U24D"     : "Diet_OnWeightCtrl",
+    "U24E"     : "Diab_OnOralMeds",
+    "U24F"     : "Diab_OnInsulin",
+    "U24J"     : "Has_MI",
+    "U24K"     : "MI_Age",
+    "U24L"     : "Has_Apopl",
+    "U24M"     : "Apopl_Age",
+    "U24T"     : "IS_Age",
+    "U24V"     : "Had_Stroke",
+    "U24R"     : "Has_Whistle",
+    "U24S"     : "Whistle_Years",
+    "U25"      : "Had_Smoke",
+    "U26"      : "Age_Smoke",
+    "U27"      : "Quit_Smoke",
+    "U28"      : "Num_Cigs_Day",
+    "U34"      : "Drink_Tea",
+    "U35"      : "Freq_Tea",
+    "U36"      : "Avg_Tea_Cups_Day",
+    "U37"      : "Drink_Coffee",
+    "U38"      : "Freq_Coffee",
+    "U39"      : "Avg_Coffee_Cups_Day",
+    "U40"      : "Drink_Beer",
+    "U41"      : "Freq_Beer",
+    "U42"      : "Avg_Beer_Cups_Day",
+}

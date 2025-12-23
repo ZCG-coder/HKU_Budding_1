@@ -1,0 +1,98 @@
+1: Buonacera A, Stancanelli B, Malatino L. Stroke and Hypertension: An Appraisal
+from Pathophysiology to Clinical Practice. Curr Vasc Pharmacol.
+2019;17(1):72-84. doi: 10.2174/1570161115666171116151051. PMID: 29149815.
+
+2: McCarthy J, Yang J, Clissold B, Young MJ, Fuller PJ, Phan T. Hypertension
+Management in Stroke Prevention: Time to Consider Primary Aldosteronism. Stroke.
+2021 Oct;52(10):e626-e634. doi: 10.1161/STROKEAHA.120.033990. Epub 2021 Aug 25.
+PMID: 34428932.
+
+3: Zheng H, Han Y, Du Y, Shi X, Huang H, Yu X, Tan X, Hu C, Wang Y, Zhou S.
+Regulation of Hypertension for Secondary Prevention of Stroke: The Possible
+'Bridging Function' of Acupuncture. Complement Med Res. 2018;25(1):45-51. doi:
+10.1159/000475930. Epub 2018 Jan 23. PMID: 29393105.
+
+4: O'Collins VE, Donnan GA, Macleod MR, Howells DW. Hypertension and
+experimental stroke therapies. J Cereb Blood Flow Metab. 2013 Aug;33(8):1141-7.
+doi: 10.1038/jcbfm.2013.88. Epub 2013 Jun 5. PMID: 23736641; PMCID: PMC3734784.
+
+5: Falk JM, Froentjes L, Kirkwood JE, Heran BS, Kolber MR, Allan GM, Korownyk
+CS, Garrison SR. Higher blood pressure targets for hypertension in older adults.
+Cochrane Database Syst Rev. 2024 Dec 17;12(12):CD011575. doi:
+10.1002/14651858.CD011575.pub3. PMID: 39688187; PMCID: PMC11650777.
+
+6: Castilla-Guerra L, Fernández-Moreno Mdel C. Update on the management of
+hypertension for secondary stroke prevention. Eur Neurol. 2012;68(1):1-7. doi:
+10.1159/000336836. Epub 2012 May 23. PMID: 22627064.
+
+7: Hu L, Huang X, Zhou W, You C, Liang Q, Zhou D, Li J, Li P, Wu Y, Wu Q, Wang
+Z, Gao R, Bao H, Cheng X. Associations between resting heart rate, hypertension,
+and stroke: A population-based cross-sectional study. J Clin Hypertens
+(Greenwich). 2019 May;21(5):589-597. doi: 10.1111/jch.13529. Epub 2019 Apr 5.
+PMID: 30950555; PMCID: PMC8030446.
+
+8: Wan M, Liu X, Zhang M, Cui Z, Zhao W, Li J, Lin S. Stigmatized Stroke? A
+Qualitative Study of Perception of Stroke Among Community Residents With
+Hypertension. Int J Public Health. 2024 Mar 13;69:1606781. doi:
+10.3389/ijph.2024.1606781. PMID: 38544924; PMCID: PMC10966342.
+
+9: Hisham NF, Bayraktutan U. Epidemiology, pathophysiology, and treatment of
+hypertension in ischaemic stroke patients. J Stroke Cerebrovasc Dis. 2013
+Oct;22(7):e4-14. doi: 10.1016/j.jstrokecerebrovasdis.2012.05.001. Epub 2012 Jun
+8. PMID: 22682972.
+
+10: Spence JD. Controlling resistant hypertension. Stroke Vasc Neurol. 2018 Feb
+24;3(2):69-75. doi: 10.1136/svn-2017-000138. PMID: 30022799; PMCID: PMC6047342.
+
+11: Klungel OH, Stricker BH, Breteler MM, Seidell JC, de Boer A.
+Onderbehandeling van hypertensie en het risico op beroerte bij de oudste ouderen
+[Undertreatment of hypertension and the risk of stroke in the oldest old].
+Tijdschr Gerontol Geriatr. 2000 Jun;31(3):119-22. Dutch. PMID: 10900665.
+
+12: Zhong C, Xia W, Zhong X, Xu T, Li H, Zhang M, Wang A, Xu T, Sun Y, Zhang Y.
+Lipid Accumulation Product and Hypertension Related to Stroke: a 9.2-Year
+Prospective Study Among Mongolians in China. J Atheroscler Thromb. 2016 Jul
+1;23(7):830-8. doi: 10.5551/jat.33514. Epub 2016 Jan 21. PMID: 26797267; PMCID:
+PMC7399275.
+
+13: Aronow WS, Frishman WH. Treatment of hypertension and prevention of ischemic
+stroke. Curr Cardiol Rep. 2004 Mar;6(2):124-9. doi: 10.1007/s11886-004-0010-2.
+PMID: 14759357.
+
+14: Loewenstein D, Rabbat M. Neurological complications of systemic
+hypertension. Handb Clin Neurol. 2021;177:253-259. doi:
+10.1016/B978-0-12-819814-8.00018-4. PMID: 33632444.
+
+15: Owolabi MO, Agunloye AM. Risk factors for stroke among patients with
+hypertension: a case-control study. J Neurol Sci. 2013 Feb 15;325(1-2):51-6.
+doi: 10.1016/j.jns.2012.11.016. Epub 2012 Dec 20. PMID: 23260320.
+
+16: Perry HM Jr, Davis BR, Price TR, Applegate WB, Fields WS, Guralnik JM,
+Kuller L, Pressel S, Stamler J, Probstfield JL. Effect of treating isolated
+systolic hypertension on the risk of developing various types and subtypes of
+stroke: the Systolic Hypertension in the Elderly Program (SHEP). JAMA. 2000 Jul
+26;284(4):465-71. doi: 10.1001/jama.284.4.465. PMID: 10904510.
+
+17: Zheng J, Sun Z, Guo X, Xie Y, Sun Y, Zheng L. Blood pressure predictors of
+stroke in rural Chinese dwellers with hypertension: a large-scale prospective
+cohort study. BMC Cardiovasc Disord. 2019 Aug 29;19(1):206. doi:
+10.1186/s12872-019-1186-0. PMID: 31464591; PMCID: PMC6716914.
+
+18: Yasui D, Asayama K, Ohkubo T, Kikuya M, Kanno A, Hara A, Hirose T, Obara T,
+Metoki H, Inoue R, Totsune K, Hoshi H, Satoh H, Imai Y. Stroke risk in treated
+hypertension based on home blood pressure: the Ohasama study. Am J Hypertens.
+2010 May;23(5):508-14. doi: 10.1038/ajh.2010.15. Epub 2010 Feb 25. PMID:
+20186131.
+
+19: Marsh JD, Keyrouz SG. Stroke prevention and treatment. J Am Coll Cardiol.
+2010 Aug 24;56(9):683-91. doi: 10.1016/j.jacc.2009.12.072. PMID: 20723798.
+
+20: Dickinson CJ. Strokes and their relationship to hypertension. Curr Opin
+Nephrol Hypertens. 2003 Jan;12(1):91-6. doi: 10.1097/00041552-200301000-00015.
+PMID: 12496672.
+
+21: Nordahl H, Osler M, Frederiksen BL, Andersen I, Prescott E, Overvad K,
+Diderichsen F, Rod NH. Combined effects of socioeconomic position, smoking, and
+hypertension on risk of ischemic and hemorrhagic stroke. Stroke. 2014
+Sep;45(9):2582-7. doi: 10.1161/STROKEAHA.114.005252. Epub 2014 Aug 14. PMID:
+25123220.

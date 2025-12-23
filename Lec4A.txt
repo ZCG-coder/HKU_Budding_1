@@ -1,0 +1,5 @@
+smoking, hypertension, diabetes, obesity, lack of activity, chronic stress
+
+sense -> get data
+think -> data into insight
+act -> change outcomes safely (how does this technology change behavior)

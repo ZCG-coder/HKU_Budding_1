@@ -1,0 +1,950 @@
+1. Curr Vasc Pharmacol. 2019;17(1):72-84. doi: 10.2174/1570161115666171116151051.
+
+Stroke and Hypertension: An Appraisal from Pathophysiology to Clinical Practice.
+
+Buonacera A(1), Stancanelli B(1), Malatino L(1).
+
+Author information:
+(1)Academic Unit of Internal Medicine and Hypertension Centre, Department of 
+Clinical and Experimental Medicine, University of Catania, c/o Cannizzaro 
+Hospital, Catania, Italy.
+
+Stroke as a cause of long-term disability is a growing public health burden. 
+Therefore, focusing on prevention is important. The most prominent aim of this 
+strategy is to treat modifiable risk factors, such as arterial hypertension, the 
+leading modifiable contributor to stroke. Thus, efforts to adequately reduce 
+Blood Pressure (BP) among hypertensives are mandatory. In this respect, although 
+safety and benefits of BP control related to long-term outcome have been largely 
+demonstrated, there are open questions that remain to be addressed, such as 
+optimal timing to initiate BP reduction and BP goals to be targeted. Moreover, 
+evidence on antihypertensive treatment during the acute phase of stroke or BP 
+management in specific categories (i.e. patients with carotid stenosis and 
+post-acute stroke) remain controversial. This review provides a critical update 
+on the current knowledge concerning BP management and stroke pathophysiology in 
+patients who are either at risk for stroke or who experienced stroke.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.org.
+
+DOI: 10.2174/1570161115666171116151051
+PMID: 29149815 [Indexed for MEDLINE]
+
+
+2. Stroke. 2021 Oct;52(10):e626-e634. doi: 10.1161/STROKEAHA.120.033990. Epub 2021 
+Aug 25.
+
+Hypertension Management in Stroke Prevention: Time to Consider Primary 
+Aldosteronism.
+
+McCarthy J(#)(1), Yang J(#)(2)(3)(4), Clissold B(#)(5)(4), Young MJ(2)(6), 
+Fuller PJ(2)(3), Phan T(5)(4).
+
+Author information:
+(1)Department of Endocrinology, Eastern Health, Box Hill, Australia (J.M.).
+(2)Centre for Endocrinology and Metabolism, Hudson Institute of Medical 
+Research, Clayton, Australia (J.Y., M.J.Y., P.J.F.).
+(3)Departments of Endocrinology (J.Y., P.J.F.), Monash Health, Clayton, 
+Australia.
+(4)Department of Medicine, School of Clinical Sciences at Monash Health, Monash 
+University, Clayton, Australia (J.Y., B.C., T.P.).
+(5)Neurology (B.C., T.P.), Monash Health, Clayton, Australia.
+(6)Baker Heart and Diabetes Institute, Melbourne, Australia (M.J.Y.).
+(#)Contributed equally
+
+Primary aldosteronism confers a higher risk of stroke, atrial fibrillation, and 
+cardiovascular disease than blood pressure matched essential hypertension. It is 
+the most common endocrine cause of secondary hypertension with prevalence 
+estimates of up to 13% in primary care and 30% in referral centers around the 
+world. Unlike essential hypertension, primary aldosteronism has targeted medical 
+treatment and potentially curative surgical solutions which can ameliorate the 
+associated cardiovascular risks. This narrative review highlights an evidence 
+gap in the optimal diagnosis and targeted treatment of primary aldosteronism in 
+secondary stroke prevention. Over half of the patients suffering a stroke have 
+blood pressure in the hypertensive range and less than a third achieve optimal 
+blood pressure control. There are no guideline recommendations to test for 
+primary aldosteronism in these patients, although up to 30% of patients with 
+resistant hypertension may have this disease. The accurate diagnosis of primary 
+aldosteronism could significantly improve blood pressure, simplify the 
+medication regimen and reduce the overall cardiovascular risk in these patients. 
+The challenges associated with screening for primary aldosteronism following 
+stroke may be overcome by novel blood tests which are less affected by 
+antihypertensive medications routinely used in stroke care. Approximately 
+one-quarter of all strokes occur in patients who have previously had a stroke. 
+Modifying hypertension, the leading modifiable risk factor, would, therefore, 
+have significant public health implications. As clinicians, we must increase our 
+awareness of primary aldosteronism in patients with stroke, particularly in 
+those with resistant hypertension, to enable targeted therapy and reduce the 
+risk of stroke recurrence.
+
+DOI: 10.1161/STROKEAHA.120.033990
+PMID: 34428932 [Indexed for MEDLINE]
+
+
+3. Complement Med Res. 2018;25(1):45-51. doi: 10.1159/000475930. Epub 2018 Jan 23.
+
+Regulation of Hypertension for Secondary Prevention of Stroke: The Possible 
+'Bridging Function' of Acupuncture.
+
+Zheng H, Han Y, Du Y, Shi X, Huang H, Yu X, Tan X, Hu C, Wang Y, Zhou S.
+
+Worldwide, stroke is the leading cause of mortality and disability, with 
+hypertension being an independent risk factor for a secondary stroke. 
+Acupuncture for the treatment of hypertension gains more attention in 
+alternative and complementary medicine, but the results are inconsistent. Few 
+studies regarding the secondary prevention of stroke by managing hypertension 
+with acupuncture have been carried out as there are some problems regarding the 
+antihypertensive drug status in the secondary prevention of stroke. Still, the 
+potential of acupuncture in regulating the blood pressure for secondary stroke 
+prevention deserves our focus. This review is based on papers recorded in the 
+PubMed, Embase, and Web of Science databases, from their inception until March 
+28, 2017, and retrieved with the following search terms: hypertension and 
+acupuncture, limited in spontaneously hypertensive rats (SHRs), stress-induced 
+(or cold-induced) hypertensive or pre-hypertensive models. We find that, in 
+these hypertensive animals, acupuncture could mainly influence factors related 
+to the nervous system, oxidative stress, the endocrine system, cardiovascular 
+function, and hemorheology, which are closely associated with the stroke 
+outcome. This trend may give us a hint that acupuncture might well participate 
+in the secondary prevention of stroke through these pathways when used in the 
+management of hypertension.
+
+© 2018 S. Karger GmbH, Freiburg.
+
+DOI: 10.1159/000475930
+PMID: 29393105 [Indexed for MEDLINE]
+
+
+4. J Cereb Blood Flow Metab. 2013 Aug;33(8):1141-7. doi: 10.1038/jcbfm.2013.88. 
+Epub 2013 Jun 5.
+
+Hypertension and experimental stroke therapies.
+
+O'Collins VE(1), Donnan GA, Macleod MR, Howells DW.
+
+Author information:
+(1)Florey Institute of Neuroscience and Mental Health, Heidelberg, Victoria, 
+Australia. ocollins@unimelb.edu.au
+
+Hypertension is an established target for long-term stroke prevention but 
+procedures for management of hypertension in acute stroke are less certain. 
+Here, we analyze basic science data to examine the impact of hypertension on 
+candidate stroke therapies and of anti-hypertensive treatments on stroke 
+outcome.
+METHODS: Data were pooled from 3,288 acute ischemic stroke experiments (47,899 
+animals) testing the effect of therapies on infarct size (published 1978-2010). 
+Data were combined using meta-analysis and meta-regression, partitioned on the 
+basis of hypertension, stroke model, and therapy.
+RESULTS: Hypertensive animals were used in 10% of experiments testing 502 
+therapies. Hypertension was associated with lower treatment efficacy, especially 
+in larger infarcts. Overall, anti-hypertensives did not provide greater benefit 
+than other drugs, although benefits were evident in hypertensive animals even 
+when given after stroke onset. Fifty-eight therapies were tested in both 
+normotensive and hypertensive animals: some demonstrated superior efficacy in 
+hypertensive animals (hypothermia) while others worked better in normotensive 
+animals (tissue plasminogen activator, anesthetic agents).
+DISCUSSION: Hypertension has a significant effect on the efficacy of candidate 
+stroke drugs: standard basic science testing may overestimate the efficacy which 
+could be reasonably expected from certain therapies and for hypertensive 
+patients with large or temporary occlusions.
+
+DOI: 10.1038/jcbfm.2013.88
+PMCID: PMC3734784
+PMID: 23736641 [Indexed for MEDLINE]
+
+
+5. Cochrane Database Syst Rev. 2024 Dec 17;12(12):CD011575. doi: 
+10.1002/14651858.CD011575.pub3.
+
+Higher blood pressure targets for hypertension in older adults.
+
+Falk JM(1), Froentjes L(2), Kirkwood JE(2), Heran BS(3), Kolber MR(2), Allan 
+GM(2)(4), Korownyk CS(2), Garrison SR(2).
+
+Author information:
+(1)College of Pharmacy, Rady Faculty of Health Sciences, University of Manitoba, 
+Winnipeg, Canada.
+(2)Department of Family Medicine, University of Alberta, Edmonton, Canada.
+(3)Department of Anesthesiology, Pharmacology and Therapeutics, University of 
+British Columbia, Vancouver, Canada.
+(4)Executive Director & Chief Executive Officer, College of Family Physicians of 
+Canada and The Foundation for Advancing Family Medicine, Mississauga, Canada.
+
+Update of
+    Cochrane Database Syst Rev. 2017 Aug 08;8:CD011575. doi: 
+10.1002/14651858.CD011575.pub2.
+
+BACKGROUND: This is an update of the original Cochrane review, published in 
+2017. Eight out of 10 major antihypertensive trials in adults, 65 years of age 
+or older, attempted to achieve a target systolic blood pressure (BP) of < 160 
+mmHg. Collectively, these trials demonstrated cardiovascular benefit for 
+treatment, compared to no treatment, for older adults with BP > 160 mmHg. 
+However, an even lower BP target of < 140 mmHg is commonly applied to all age 
+groups. Yet the risk and benefit of antihypertensive therapy can be expected to 
+vary across populations, and some observational evidence suggests that older 
+adults who are frail might have better health outcomes with less aggressive BP 
+lowering. Current clinical practice guidelines are inconsistent in target BP 
+recommendations for older adults, with systolic BP targets ranging from < 130 
+mmHg to < 150 mmHg. The 2017 review did not find compelling evidence of a 
+reduction in any of the primary outcomes, including all-cause mortality, stroke, 
+or total serious cardiovascular adverse events, comparing a lower BP target to a 
+higher BP target in older adults with hypertension. It is important to update 
+this review to explore if new evidence exists to determine whether older adults 
+might do just as well, better, or worse with less aggressive pharmacotherapy for 
+hypertension.
+OBJECTIVES: To assess the effects of a less aggressive blood pressure target (in 
+the range of < 150 to 160/95 to 105 mmHg), compared to a conventional or more 
+aggressive BP target (of < 140/90 mmHg or lower) in hypertensive adults, 65 
+years of age or older.
+SEARCH METHODS: For this update, Cochrane Hypertension's Information Specialist 
+searched the following databases for randomised controlled trials up to June 
+2024: Cochrane Hypertension Specialised Register, CENTRAL, MEDLINE Ovid, and 
+Embase Ovid, and the US National Institutes of Health Ongoing Trials Register 
+ClinicalTrials.gov for ongoing trials. We also contacted authors of relevant 
+papers requesting information on further published and unpublished work. The 
+searches had no language restrictions.
+SELECTION CRITERIA: We included randomised trials of hypertensive older adults 
+(≥ 65 years) that spanned at least one year, and reported the effect on 
+mortality and morbidity of a higher or lower systolic or diastolic BP treatment 
+target. Higher BP targets ranged from systolic BP < 150 to 160 mmHg or diastolic 
+BP < 95 to 105 mmHg; lower BP targets were 140/90 mmHg or lower, measured in an 
+ambulatory, home, or office setting.
+DATA COLLECTION AND ANALYSIS: Two authors independently screened and selected 
+trials for inclusion, assessed risk of bias and certainty of the evidence, and 
+extracted data. We combined data for dichotomous outcomes using the risk ratio 
+(RR) with 95% confidence interval (CI). For continuous outcomes, we used mean 
+difference (MD). Primary outcomes were all-cause mortality, stroke, 
+institutionalisation, and serious cardio-renal vascular adverse events. 
+Secondary outcomes included cardiovascular mortality, non-cardiovascular 
+mortality, unplanned hospitalisation, each component of cardiovascular serious 
+adverse events separately (including cerebrovascular disease, cardiac disease, 
+vascular disease, and renal failure), total serious adverse events, total minor 
+adverse events, withdrawals due to adverse effects, systolic BP achieved, and 
+diastolic BP achieved.
+MAIN RESULTS: With the addition of one new trial, we included four trials in 
+this updated review (16,732 older adults with a mean age of 70.3 years). Of 
+these, one trial used a combined systolic and diastolic BP target and compared a 
+higher target of < 150/90 mmHg to a lower target of < 140/90 mmHg, and two 
+trials utilised a purely systolic BP target, and compared a systolic BP < 150 
+mmHg (1 trial) and a systolic BP < 160 mmHg (1 trial), to a systolic BP < 140 
+mmHg. The fourth and newest trial also utilised a systolic BP target, but also 
+introduced a lower limit for systolic BP. It compared systolic BP in the target 
+range of 130 to 150 mmHg to a lower target range of 110 to 130 mmHg. The 
+evidence shows that treatment to the lower BP target over two to four years may 
+result in little to no difference in all-cause mortality (RR 1.14, 95% CI 0.95 
+to 1.37; 4 studies, 16,732 participants; low-certainty evidence), but the lower 
+BP target does reduce stroke (RR 1.33, 95% CI 1.06 to 1.67; 4 studies, 16,732 
+participants; high-certainty evidence), and likely reduces total serious 
+cardiovascular adverse events (RR 1.25, 95% CI 1.09 to 1.45; 4 studies, 16,732 
+participants; moderate-certainty evidence). Adverse effects were not available 
+from all trials, but the lower BP target likely does not increase withdrawals 
+due to adverse effects (RR 0.99, 95% CI 0.74 to 1.33; 3 studies, 16,008 
+participants; moderate-certainty evidence).
+AUTHORS' CONCLUSIONS: When comparing a higher BP target, in the range of < 150 
+to 160/95 to 105 mmHg, to a lower BP target of 140/90 or lower, over two to four 
+years of follow-up, there is high-certainty evidence that the lower BP target 
+reduces stroke, and moderate-certainty evidence that the lower BP target likely 
+reduces serious cardiovascular events. The effect on all-cause mortality is 
+unclear (low-certainty evidence), and the lower BP target likely does not 
+increase withdrawals due to adverse effects (moderate-certainty evidence). 
+Although additional research is warranted in those who are 80 years of age and 
+older, and those who are frail (in whom risks and benefits may differ), 
+conventional BP targets may be appropriate for the majority of older adults.
+
+Copyright © 2024 The Cochrane Collaboration. Published by John Wiley & Sons, 
+Ltd.
+
+DOI: 10.1002/14651858.CD011575.pub3
+PMCID: PMC11650777
+PMID: 39688187 [Indexed for MEDLINE]
+
+Conflict of interest statement: Jamie Falk: none Scott Garrison: Dr. Garrison 
+holds 2 government grants (from Alberta Innovates, and the Canadian Institutes 
+of Health Research) which jointly fund 2 antihypertensive timing trials, one in 
+a Canadian primary care population (BedMed), and one in an Alberta continuing 
+care ('nursing home') population (BedMed‐Frail). Dr. Garrison is the principal 
+investigator for both trials. Mike Kolber: none Christina S Korownyk: none Benji 
+Heran: none G Michael Allan: none Jessica Kirkwood: none Liesbeth Froentjes: 
+none
+
+
+6. Eur Neurol. 2012;68(1):1-7. doi: 10.1159/000336836. Epub 2012 May 23.
+
+Update on the management of hypertension for secondary stroke prevention.
+
+Castilla-Guerra L(1), Fernández-Moreno Mdel C.
+
+Author information:
+(1)Department of Internal Medicine, Hospital de la Merced, Osuna, Spain. 
+castillafernandez @ hotmail.com
+
+High blood pressure (BP) is the strongest risk factor for stroke. It is 
+estimated that almost 50% of strokes may be attributable to hypertension. Both 
+diastolic and isolated systolic hypertension are important predictors of primary 
+or recurrent strokes, and even minor decreases in BP can reduce the risk of 
+stroke. While the primary prevention of stroke through the treatment of 
+hypertension is well established, the issue of lowering BP after a stroke has 
+been uncertain, particularly since this might worsen cerebral perfusion if 
+autoregulation remains chronically damaged or severe carotid artery stenosis is 
+present. Furthermore, there is substantial evidence to support BP lowering for 
+prevention of a first stroke; however, few trials have focused on 
+antihypertensive therapy for recurrent stroke prevention. In fact, currently, BP 
+management in patients with strokes remains problematic, and questions such as 
+the choice of antihypertensive drug and by how much to reduce BP are yet to be 
+resolved. Recently, the American Heart Association and American Stroke 
+Association published updated guidelines for recurrent stroke prevention, and 
+new recommendations on BP management have been included. Our review presents the 
+most recent evidence on the management of hypertension in patients who have had 
+a stroke.
+
+Copyright © 2012 S. Karger AG, Basel.
+
+DOI: 10.1159/000336836
+PMID: 22627064 [Indexed for MEDLINE]
+
+
+7. J Clin Hypertens (Greenwich). 2019 May;21(5):589-597. doi: 10.1111/jch.13529. 
+Epub 2019 Apr 5.
+
+Associations between resting heart rate, hypertension, and stroke: A 
+population-based cross-sectional study.
+
+Hu L(1), Huang X(1), Zhou W(2), You C(1), Liang Q(3), Zhou D(4), Li J(1), Li 
+P(1), Wu Y(1), Wu Q(1), Wang Z(5), Gao R(6), Bao H(1), Cheng X(1).
+
+Author information:
+(1)Department of Cardiovascular Medicine, the Second Affiliated Hospital of 
+Nanchang University, Nanchang of Jiangxi, China.
+(2)Center for Prevention and Treatment of Cardiovascular Diseases, the Second 
+Affiliated Hospital of Nanchang University, Nanchang of Jiangxi, China.
+(3)Jiangxi Key Laboratory of Molecular Medicine, the Second Affiliated Hospital 
+of Nanchang University, Nanchang of Jiangxi, China.
+(4)Department of Occupational and Environmental Health Sciences, School of 
+Public Health, Peking University, Beijing, China.
+(5)Division of Prevention and Community Health, National Center for 
+Cardiovascular Disease, Fuwai Hospital, Peking Union Medical College & Chinese 
+Academy of Medical Sciences, Beijing, China.
+(6)Fuwai Hospital, Peking Union Medical College & Chinese Academy of Medical 
+Sciences, Beijing, China.
+
+Uncertainty remains regarding the association between resting heart rate (RHR) 
+with hypertension and stroke because of limited and inconsistent data. We 
+assessed the association between RHR, hypertension, and stroke. In this 
+cross-sectional study, 14 677 participants from the China Hypertension Survey 
+study were analyzed. The history of stroke was conducted by questionnaires. RHR 
+was measured by the standardized electronic monitors. Multivariate logistic 
+regression analyses were performed to evaluate the association between RHR, 
+hypertension, and stroke. Moreover, a generalized additive model (GAM) and 
+smooth curve fitting (penalized spline method) were conducted to assess the 
+association between RHR and stroke in different status of hypertension. Overall, 
+each 10 beats per minute (bpm) increase in RHR was associated with an 18% 
+increased prevalence of stroke (P = 0.017). Subjects with RHR > 80 bpm were 
+associated with a higher prevalence of stroke (OR = 1.47; 95% CI, 1.08-2.01) 
+compared with those with RHR ≤ 80 bpm. Similarly, hypertensives had a higher 
+prevalence of stroke than normotensives (OR = 3.76; 95% CI, 2.39-5.92). 
+Hypertensives with RHR > 80 bpm had the highest prevalence of stroke compared 
+with their counterparts (OR = 5.47; 95% CI, 3.13-9.56). The fully adjusted 
+smooth curve fitting presented a linear association between RHR and stroke among 
+participants with hypertension, but almost horizontal association among 
+participants without hypertension. In conclusion, elevated RHR and hypertension 
+were independently and jointly associated with the increased prevalence of 
+stroke. These findings suggested that elevated RHR was associated with increased 
+prevalence of stroke especially among hypertensives.
+
+©2019 Wiley Periodicals, Inc.
+
+DOI: 10.1111/jch.13529
+PMCID: PMC8030446
+PMID: 30950555 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+8. Int J Public Health. 2024 Mar 13;69:1606781. doi: 10.3389/ijph.2024.1606781. 
+eCollection 2024.
+
+Stigmatized Stroke? A Qualitative Study of Perception of Stroke Among Community 
+Residents With Hypertension.
+
+Wan M(1), Liu X(2), Zhang M(1), Cui Z(1), Zhao W(1), Li J(1), Lin S(1).
+
+Author information:
+(1)Department of Infectious Diseases, The First Affiliated Hospital of Xi'an 
+Jiaotong University, Xi'an, Shaanxi, China.
+(2)Department of Physiology and Pathophysiology, School of Basic Medicine, Xi'an 
+Jiaotong University, Xi'an, Shaanxi, China.
+
+Objectives: To understand the perception of stroke in the hypertensive 
+population. Hypertension is the primary risk factor for stroke, and current 
+approaches to stroke prevention are inadequate and often fragmented. 
+Understanding the perception of stroke among individuals with hypertension is 
+crucial for a targeted approach. However, empirical evidence on this perception 
+is limited. Methods: A qualitative design involved thematic analysis of focus 
+groups and interview data from urban China with hypertension. Audio recordings 
+were transcribed and subjected to thematic analysis. Results: Three themes were 
+identified. Hypertensive participants first identified stroke patients by their 
+obvious physical disability, and then identified the disease as a negative 
+thing. Finally, they wanted to stay away from stroke, but paradoxically, there 
+is a contradictory approach to avoidance and prevention, such as being willing 
+to prevent the disease or simply avoiding socializing with stroke patients. 
+Conclusion: Hypertensive patients hold complex and diverse perceptions of 
+stroke, including a certain stigma. Future public health education should 
+prioritize improving media promotion and fostering interaction between patients 
+with hypertension and stroke in the community.
+
+Copyright © 2024 Wan, Liu, Zhang, Cui, Zhao, Li and Lin.
+
+DOI: 10.3389/ijph.2024.1606781
+PMCID: PMC10966342
+PMID: 38544924 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they do not have any 
+conflicts of interest.
+
+
+9. J Stroke Cerebrovasc Dis. 2013 Oct;22(7):e4-14. doi: 
+10.1016/j.jstrokecerebrovasdis.2012.05.001. Epub 2012 Jun 8.
+
+Epidemiology, pathophysiology, and treatment of hypertension in ischaemic stroke 
+patients.
+
+Hisham NF(1), Bayraktutan U.
+
+Author information:
+(1)Division of Stroke, School of Clinical Sciences, University of Nottingham, 
+Nottingham, United Kingdom.
+
+Stroke continues to be one of the leading causes of mortality and morbidity 
+worldwide. There are 2 main types of stroke: ischaemic strokes, which are caused 
+by obstruction of the blood vessels leading to or within the brain, and 
+haemorrhagic strokes, which are induced by the disruption of blood vessels. 
+Stroke is a disease of multifactorial aetiology that may develop as an end state 
+in patients with serious vascular conditions--most notably, uncontrolled 
+arterial hypertension--thereby necessitating the effective control of this risk 
+factor to prevent stroke or its recurrence. This paper focuses specifically on 
+the epidemiology and pathogenesis of ischaemic stroke mainly in chronically 
+hypertensive patients and pays particular attention to the efficacy of a select 
+group of routinely used major antihypertensive drugs (i.e., 
+angiotensin-converting enzyme inhibitors, angiotensin II type 1 receptor 
+blockers, and calcium channel blockers) in the treatment of strokes.
+
+Copyright © 2013 National Stroke Association. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.jstrokecerebrovasdis.2012.05.001
+PMID: 22682972 [Indexed for MEDLINE]
+
+
+10. Stroke Vasc Neurol. 2018 Feb 24;3(2):69-75. doi: 10.1136/svn-2017-000138. 
+eCollection 2018 Jun.
+
+Controlling resistant hypertension.
+
+Spence JD(1).
+
+Author information:
+(1)Stroke Prevention & Atherosclerosis Research Centre, Robarts Research 
+Institute, Western University, London, Ontario, Canada.
+
+Comment in
+    doi: 10.1136/svn-2018-000171.
+
+Resistant hypertension (failure to achieve target blood pressures with three or 
+more antihypertensive drugs including a diuretic) is an important and 
+preventable cause of stroke. Hypertension is highly prevalent in China (>60% of 
+persons above age 65), and only ~6% of hypertensives in China are controlled to 
+target levels. Most strokes occur among persons with resistant hypertension; 
+approximately half of strokes could be prevented by blood pressure control. 
+Reasons for uncontrolled hypertension include (1) non-compliance; (2) 
+consumption of substances that aggravated hypertension, such as excess salt, 
+alcohol, licorice, decongestants and oral contraceptives; (3) therapeutic 
+inertia (failure to intensify therapy when target blood pressures are not 
+achieved); and (4) diagnostic inertia (failure to investigate the cause of 
+resistant hypertension). In China, an additional factor is lack of availability 
+of appropriate antihypertensive therapy in many healthcare settings. Sodium 
+restriction in combination with a diet similar to the Cretan Mediterranean or 
+the DASH (Dietary Approaches to Stop Hypertension) diet can lower blood pressure 
+in proportion to the severity of hypertension. Physiologically individualised 
+therapy for hypertension based on phenotyping by plasma renin activity and 
+aldosterone can markedly improve blood pressure control. Renal hypertension 
+(high renin/high aldosterone) is best treated with angiotensin receptor 
+antagonists; primary aldosteronism (low renin/high aldosterone) is best treated 
+with aldosterone antagonists (spironolactone or eplerenone); and hypertension 
+due to overactivity of the renal epithelial sodium channel (low renin/low 
+aldosterone; Liddle phenotype) is best treated with amiloride. The latter is far 
+more common than most physicians suppose.
+
+DOI: 10.1136/svn-2017-000138
+PMCID: PMC6047342
+PMID: 30022799 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+11. Tijdschr Gerontol Geriatr. 2000 Jun;31(3):119-22.
+
+[Undertreatment of hypertension and the risk of stroke in the oldest old].
+
+[Article in Dutch]
+
+Klungel OH(1), Stricker BH, Breteler MM, Seidell JC, de Boer A.
+
+Author information:
+(1)Utrecht Institute of Pharmaceutical Sciences (UIPS), Universiteit Utrecht.
+
+The benefit of pharmacological treatment of hypertension in the prevention of 
+cardiovascular diseases has been established mainly in subjects younger than 80 
+years of age. The consequences of undertreatment of hypertension with regard to 
+the occurrence of stroke was studied in the Netherlands. About 33% of the 
+hypertensives younger than 80 years and 55% of the hypertensives older than 80 
+years were not pharmacologically treated, although they were 'candidates' for 
+pharmacological treatment of hypertension. About 19% (n = 1350) of all strokes 
+that occurred in the Netherlands in 1994 among hypertensives younger than 80 
+years may be attributable to untreated hypertension. Among hypertensives older 
+than 80 years this percentage was 32% (n = 1345). Although the benefit of 
+pharmacological treatment of hypertension in persons older than 80 years has not 
+been established experimentally, the results suggest that a considerable 
+proportion of the strokes among this group of hypertensives may be prevented.
+
+PMID: 10900665 [Indexed for MEDLINE]
+
+
+12. J Atheroscler Thromb. 2016 Jul 1;23(7):830-8. doi: 10.5551/jat.33514. Epub 2016 
+Jan 21.
+
+Lipid Accumulation Product and Hypertension Related to Stroke: a 9.2-Year 
+Prospective Study Among Mongolians in China.
+
+Zhong C(1), Xia W, Zhong X, Xu T, Li H, Zhang M, Wang A, Xu T, Sun Y, Zhang Y.
+
+Author information:
+(1)Department of Epidemiology, School of Public Health, Medical College of 
+Soochow University.
+
+AIMS: We aimed to assess the relationship between lipid accumulation product 
+(LAP) and stroke incidence and whether increased LAP would further enlarge the 
+risk of stroke in participants with hypertension in an Inner Mongolian 
+population of China.
+METHODS: Based on the baseline survey conducted in 2002-2003, a prospective 
+cohort study was conducted among 2547 Mongolian people from Inner Mongolia, 
+China. LAP was calculated by waist circumference (WC) and triglyceride (TG) 
+concentration for men and women, respectively. Cox proportional hazards models 
+and receiver operating characteristic (ROC) curves were used to evaluate the 
+associations between LAP, hypertension, and stroke incidence.
+RESULTS: During the follow-up period, a total of 121 stroke events were 
+observed. Participants with higher LAP were associated with higher risk of 
+stroke [adjusted hazard ratio (HR), 1.67; 95% confidence interval (CI), 
+1.08-2.58] than the participants in the lower LAP group. However, no significant 
+dose-response relationship was detected between LAP levels and risk of stroke 
+(P-trend=0.103). The Kaplan-Meier curves showed that hypertensives with high LAP 
+had highest cumulative stroke incidence rate (log-rank P ＜0.001). The 
+multivariate-adjusted HRs (95% CIs) of stroke for normotensives with high LAP, 
+hypertensives with low LAP, and hypertensives with high LAP were 1.80 
+(0.84-3.89), 2.94 (1.51-5.74), and 4.23 (2.15-8.34), respectively, compared with 
+normotensives with low LAP.
+CONCLUSIONS: The present study showed that high LAP was associated with an 
+increased risk of future stroke, and hypertensives with high LAP had the highest 
+risk of stroke among Inner Mongolians. These findings indicate that LAP and 
+hypertension may be valuable to predict and prevent stroke incidence.
+
+DOI: 10.5551/jat.33514
+PMCID: PMC7399275
+PMID: 26797267 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+13. Curr Cardiol Rep. 2004 Mar;6(2):124-9. doi: 10.1007/s11886-004-0010-2.
+
+Treatment of hypertension and prevention of ischemic stroke.
+
+Aronow WS(1), Frishman WH.
+
+Author information:
+(1)Department of Medicine, New York Medical College, Munger Pavilion, Room 263, 
+Valhalla, NY 10595, USA.
+
+Comment in
+    Curr Cardiol Rep. 2004 Mar;6(2):116.
+
+Data clearly indicate that treatment with antihypertensive drugs reduces the 
+incidence of all strokes in men (by 34%), women (by 38%), elderly persons (by 
+36%), including those older than 80 years (by 34%), younger persons, those with 
+systolic and diastolic hypertension, persons with isolated systolic 
+hypertension, and in those with a history of stroke or transient ischemic attack 
+(by 28%). Blood pressure should be reduced to less than 140/90 mm Hg. The 
+overall data also suggest that reduction of stroke in persons with hypertension 
+is related more to a reduction in blood pressure than to the type of 
+antihypertensive drugs used.
+
+DOI: 10.1007/s11886-004-0010-2
+PMID: 14759357 [Indexed for MEDLINE]
+
+
+14. Handb Clin Neurol. 2021;177:253-259. doi: 10.1016/B978-0-12-819814-8.00018-4.
+
+Neurological complications of systemic hypertension.
+
+Loewenstein D(1), Rabbat M(2).
+
+Author information:
+(1)(1)Department of Medicine, Division of Cardiology, Rush University Medical 
+Center, Chicago, IL, United States.
+(2)Department of Medicine, Division of Cardiology, Loyola University Medical 
+Center, Maywood, IL, United States. Electronic address: mrabbat@lumc.edu.
+
+Systemic hypertension is the most common, most easily diagnosed, and one of the 
+most reversible risk factors for neurologic pathology. Acute severe hypertension 
+above a mean arterial pressure of approximately 150mmHg exceeds the brain's 
+autoregulatory capacity and results in increased cerebral blood flow leading to 
+hypertensive encephalopathy. Chronic hypertension predisposes to cerebral 
+vasculature atherosclerosis, medial hypertrophy, luminal narrowing, endothelial 
+dysfunction, impaired arterial relaxation, and decreased ability to augment 
+cerebral blood flow at low blood pressures. The pathologic effects of 
+hypertension increase stroke risk by three- to fivefold. With three-fourths of 
+strokes incident events, primary prevention is essential. Multiple studies have 
+demonstrated the benefit of blood pressure lowering in reducing incident and 
+recurrent strokes. Even more, hypertension is a risk factor for cognitive 
+impairment and dementia through multifactorial mechanisms including vascular 
+compromise, cerebral small vessel disease, white matter disease (leukoaraiosis), 
+cerebral microbleeds, cerebral atrophy, amyloid plaque deposition, and 
+neurofibrillary tangles. In patients without hypotension, treatment with 
+antihypertensives slows progression and assuages the degree of cognitive 
+decline. While the choice of antihypertensive did not make a significant 
+difference in most cognitive outcome studies, some large meta-analyses have 
+pointed to angiotensin receptor blockers as the favored agent. Because of the 
+well-documented morbidity and mortality associated with unchecked hypertension, 
+treating and preventing hypertension are universally critical pillars in 
+healthcare.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/B978-0-12-819814-8.00018-4
+PMID: 33632444 [Indexed for MEDLINE]
+
+
+15. J Neurol Sci. 2013 Feb 15;325(1-2):51-6. doi: 10.1016/j.jns.2012.11.016. Epub 
+2012 Dec 20.
+
+Risk factors for stroke among patients with hypertension: a case-control study.
+
+Owolabi MO(1), Agunloye AM.
+
+Author information:
+(1)Department of Medicine, University College Hospital, College of Medicine, 
+University of Ibadan, Ibadan, Nigeria. mayowaowolabi@yahoo.com
+
+BACKGROUND: In some African countries, more than half of the adult population 
+are estimated to be hypertensive leading to an escalated burden of stroke in the 
+continent. We conducted the first study to unravel the major risk factors for 
+stroke among hypertensive patients (Nigerian-Africans) using a case-control 
+design while also exploring the relative contributions of carotid intima medial 
+thickness (CIMT) and carotid diameter as risk markers for stroke.
+METHODS: Using conventional techniques, stroke-related demographic, clinical and 
+laboratory data were obtained from 135 consecutive volunteering hypertensive 
+stroke patients and compared with 117 age and gender-matched hypertensive 
+patients with no clinical evidence of stroke, TIA or coronary artery disease. 
+Common carotid IMT and diameters were measured in all participants. Univariate 
+and multivariate analyses were conducted at p=0.05.
+RESULTS: 13.2% of the stroke patients were first diagnosed as hypertensive at 
+presentation with stroke. Among hypertensive patients, the modifiable factors 
+significantly (p<0.00001 to p<0.037) associated with stroke occurrence included 
+higher maximum and minimum blood pressures in the preceding 3months, higher 
+fasting plasma glucose, greater alcohol consumption, lesser physical activity 
+and increased CIMT. Using a multivariate model which predicted 84.6% of stroke 
+occurrence, only fasting total cholesterol of >150mg/dl (p=0.021) and common 
+carotid diameter of ≥5.9mm (p=0.008) independently multiplied the risk of 
+stroke.
+CONCLUSIONS: Particularly in resource-limited settings, aside from BP control, 
+stroke prevention efforts should be targeted towards these identified risk 
+factors for stroke among hypertensive patients. Carotid diameter should be 
+further explored as an intermediate risk marker for stroke.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jns.2012.11.016
+PMID: 23260320 [Indexed for MEDLINE]
+
+
+16. JAMA. 2000 Jul 26;284(4):465-71. doi: 10.1001/jama.284.4.465.
+
+Effect of treating isolated systolic hypertension on the risk of developing 
+various types and subtypes of stroke: the Systolic Hypertension in the Elderly 
+Program (SHEP).
+
+Perry HM Jr(1), Davis BR, Price TR, Applegate WB, Fields WS, Guralnik JM, Kuller 
+L, Pressel S, Stamler J, Probstfield JL.
+
+Author information:
+(1)Washington University, Box 8048, 660 S Euclid Ave, St Louis, MO 63110, USA. 
+mperry@imgate.wustl.edu
+
+CONTEXT: The Systolic Hypertension in the Elderly Program (SHEP) demonstrated 
+that treating isolated systolic hypertension in older patients decreased 
+incidence of total stroke, but whether all types of stroke were reduced was not 
+evaluated.
+OBJECTIVE: To investigate antihypertensive drug treatment effects on incidence 
+of stroke by type and subtype, timing of strokes, case-fatality rates, stroke 
+residual effects, and relationship of attained systolic blood pressure to stroke 
+incidence.
+DESIGN: The SHEP study, a randomized, double-blind, placebo-controlled trial 
+began March 1, 1985, and had an average follow-up of 4.5 years.
+SETTING AND PARTICIPANTS: A total of 4736 men and women aged 60 years or older 
+with isolated systolic hypertension at 16 clinical centers in the United States.
+INTERVENTIONS: Patients were randomly assigned to receive treatment with 12.5 
+mg/d of chlorthalidone (step 1); either 25 mg/d of atenolol or 0.05 mg/d of 
+reserpine (step 2) could be added (n = 2365); or placebo (n = 2371).
+MAIN OUTCOME MEASURES: Occurrence, type and subtype, and timing of first strokes 
+and stroke fatalities; and change in stroke incidence for participants (whether 
+in active treatment or placebo groups) reaching study-specific systolic blood 
+pressure goal (decrease of at least 20 mm Hg from baseline to below 160 mm Hg) 
+compared with participants not reaching goal.
+RESULTS: A total of 85 and 132 participants in the active treatment and placebo 
+groups, respectively, had ischemic strokes (adjusted relative risk [RR], 0.63; 
+95% confidence interval [CI], 0.48-0.82); 9 and 19 had hemorrhagic strokes 
+(adjusted RR, 0.46; 95% CI, 0.21-1.02); and 9 and 8 had strokes of unknown type 
+(adjusted RR, 1.05; 95% CI, 0.40-2. 73), respectively. Four subtypes of ischemic 
+stroke were observed in active treatment and placebo group participants, 
+respectively, as follows: for lacunar, n = 23 and n = 43 (adjusted RR, 0.53; 95% 
+CI, 0.32-0.88); for embolic, n = 9 and n = 16 (adjusted RR, 0.56; 95% CI, 
+0.25-1.27); for atherosclerotic, n = 13 and n = 13 (adjusted RR, 0. 99; 95% CI, 
+0.46-2.15); and for unknown subtype, n = 40 and n = 60 (adjusted RR, 0.64; 95% 
+CI, 0.43-0.96). Treatment effect was observed within 1 year for hemorrhagic 
+strokes but was not seen until the second year for ischemic strokes. Stroke 
+incidence significantly decreased in participants attaining study-specific 
+systolic blood pressure goals.
+CONCLUSIONS: In this study, antihypertensive drug treatment reduced the 
+incidence of both hemorrhagic and ischemic (including lacunar) strokes. 
+Reduction in stroke incidence occurred when specific systolic blood pressure 
+goals were attained. JAMA. 2000;284:465-471
+
+DOI: 10.1001/jama.284.4.465
+PMID: 10904510 [Indexed for MEDLINE]
+
+
+17. BMC Cardiovasc Disord. 2019 Aug 29;19(1):206. doi: 10.1186/s12872-019-1186-0.
+
+Blood pressure predictors of stroke in rural Chinese dwellers with hypertension: 
+a large-scale prospective cohort study.
+
+Zheng J(1), Sun Z(2), Guo X(3), Xie Y(1), Sun Y(4), Zheng L(5).
+
+Author information:
+(1)Department of Clinical Epidemiology, Library, Department of Health Policy and 
+Hospital Management, Shengjing Hospital of China Medical University, Shenyang, 
+110004, People's Republic of China.
+(2)Department of Cardiology, Shengjing Hospital of China Medical University, 
+Shenyang, 110004, People's Republic of China.
+(3)Department of Cardiology, the First Affiliated Hospital of China Medical 
+University, Shenyang, 110001, People's Republic of China.
+(4)Department of Cardiology, Shengjing Hospital of China Medical University, 
+Shenyang, 110004, People's Republic of China. sunyingxian12@126.com.
+(5)Department of Clinical Epidemiology, Library, Department of Health Policy and 
+Hospital Management, Shengjing Hospital of China Medical University, Shenyang, 
+110004, People's Republic of China. liqiangzheng@126.com.
+
+BACKGROUND: Little was known about the different predictive power of blood 
+pressure (BP) parameters (SBP, systolic BP; mean arterial pressure, MAP; pulse 
+pressure, PP; and diastolic BP, DBP) and stroke incidence. This study's aim was 
+to compare power of BP parameters predict stroke events among rural dwelling 
+Chinese individuals with hypertension.
+METHOD: A total of 5097 hypertension patients (56.2% women; mean age, 
+56.3 ± 11.2 years) were included in the prospective cohort study with a median 
+follow-up of 8.4 years.
+RESULTS: Until the end of the last follow-up, there were 501 onset strokes (310 
+ischemic, 186 hemorrhagic, and 5 unclassified strokes) among the 5097 
+participants. The results showed that hazard ratio (HR) (95% confidence 
+interval, 95% CI) with an increment of 5 mmHg were 1.095 (1.070-1.121) for PP, 
+1.173 (1.139-1.208) for MAP, 1.109(1.089-1.130) for SBP, 1.143(1.104-1.185) for 
+DBP. The SBP indicated the largest β coefficient in the Cox proportional hazard 
+model for all stroke except PP or MAP, and the SBP revealed slightly higher 
+value than MAP (βSBP = 0.435, βMAP = 0.430, P = 0.756).
+CONCLUSIONS: Both PP and MAP were predictive factors for stroke. The MAP showed 
+a stronger ability to predict stroke events than PP, and slightly inferior to 
+SBP for hypertension patients.
+
+DOI: 10.1186/s12872-019-1186-0
+PMCID: PMC6716914
+PMID: 31464591 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+18. Am J Hypertens. 2010 May;23(5):508-14. doi: 10.1038/ajh.2010.15. Epub 2010 Feb 
+25.
+
+Stroke risk in treated hypertension based on home blood pressure: the Ohasama 
+study.
+
+Yasui D(1), Asayama K, Ohkubo T, Kikuya M, Kanno A, Hara A, Hirose T, Obara T, 
+Metoki H, Inoue R, Totsune K, Hoshi H, Satoh H, Imai Y.
+
+Author information:
+(1)Department of Clinical Pharmacology and Therapeutics, Tohoku University 
+Graduate School of Pharmaceutical Sciences and Medicine, Sendai, Japan.
+
+BACKGROUND: Several observational studies have shown that treated hypertensives 
+are characterized as having worse prognosis than nonhypertensives. However, 
+there is little evidence based on home blood pressure (home BP) measurement. We 
+compare the risk of stroke between untreated individuals and those taking 
+antihypertensive medication based on home BP and casual-screening BP (casual BP) 
+in the general population.
+METHODS: The study included 1,690 untreated and 700 treated subjects aged >or=35 
+years. We measured home BP and casual BP at the beginning of the study. The risk 
+of first stroke was examined by using the Cox proportional hazards model.
+RESULTS: During 11.9 years of follow-up, we observed 242 first-time stroke 
+cases. Treated subjects had significantly higher risk for stroke than untreated 
+subjects based on home BP (relative hazard (RH) = 1.48) as well as on casual BP 
+(RH = 1.78), adjusted for systolic BP values and characteristics. When subjects 
+were classified into six categories based on BP (optimal, normal, high normal, 
+and grade 1-3 hypertension), RHs in treated hypertensives linearly increased 
+(trend P < 0.01) based on home BP. However, there was no consistent association 
+for casual BP (trend P: not significant) in treated subjects. Stroke risk was 
+linearly increased regardless of the BP information source in untreated subjects 
+(home BP: trend P < 0.01, casual BP: trend P < 0.01).
+CONCLUSION: The results suggest a strong association between elevated home BP 
+and increased risk of stroke. Home BP is a better tool to assess stroke risk, 
+especially in treated hypertensives.
+
+DOI: 10.1038/ajh.2010.15
+PMID: 20186131 [Indexed for MEDLINE]
+
+
+19. J Am Coll Cardiol. 2010 Aug 24;56(9):683-91. doi: 10.1016/j.jacc.2009.12.072.
+
+Stroke prevention and treatment.
+
+Marsh JD(1), Keyrouz SG.
+
+Author information:
+(1)Department of Internal Medicine, University of Arkansas for Medical Sciences, 
+Little Rock, Arkansas 72205, USA. jdmarsh@uams.edu
+
+The decline in stroke incidence and mortality in the U.S. over the past 20 years 
+is reaching a plateau, and the number of strokes may actually start to increase 
+as the population ages. However, recent clinical trials have demonstrated that 
+there are numerous opportunities to improve stroke prevention strategies and 
+also opportunities to effectively intervene in and treat acute strokes. For 
+patients with diabetes and for those with prior strokes or transient ischemic 
+attacks, it has become evident that aggressive low-density lipoprotein lowering 
+with statin medications will decrease the risk for total and fatal strokes. 
+Optimal anticoagulation and antiplatelet therapy for primary and secondary 
+stroke prevention in atrial fibrillation is being carefully defined. With 
+numerous novel factor Xa and direct thrombin inhibitor drugs completing phase 
+III clinical trials, it is likely that additional oral anticoagulant drugs will 
+be clinically available for stroke prevention soon. Additionally, a major 
+clinical trial is nearing completion that may resolve the role of carotid 
+stenting and carotid endarterectomy in primary and secondary stroke prevention. 
+There are recent notable advances in the acute treatment of stroke. It is likely 
+that the time window for thrombolysis for appropriate patients with strokes will 
+be increased from 3 to 4.5 h, permitting the inclusion of more patients in this 
+treatment approach. There is ongoing investigation of intra-arterial 
+thrombolysis and of acute intra-arterial thrombus extraction for treatment of 
+selected patients with strokes. Unlike the progress in treatment of ischemic 
+strokes, treatment of hemorrhagic stroke is progressing more slowly.
+
+Copyright 2010 American College of Cardiology Foundation. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.jacc.2009.12.072
+PMID: 20723798 [Indexed for MEDLINE]
+
+
+20. Curr Opin Nephrol Hypertens. 2003 Jan;12(1):91-6. doi: 
+10.1097/00041552-200301000-00015.
+
+Strokes and their relationship to hypertension.
+
+Dickinson CJ(1).
+
+Author information:
+(1)Wolfson Institute of Preventive Medicine, Queen Mary, University of London, 
+UK. c.j.dickinson@qmul.ac.uk
+
+PURPOSE OF REVIEW: There is rapidly growing appreciation that stroke morbidity 
+and the risk of an ischaemic stroke becoming haemorrhagic can be influenced by 
+new information about prophylaxis, rapid diagnosis and treatment.
+RECENT FINDINGS: Strokes are strongly associated with hypertension mainly 
+because hypertension is strongly associated with atheromatous deposits blocking 
+or narrowing brain arteries, predisposing to local clot formation. Atheroma and 
+its ischaemic consequences may damage cerebral arterioles and the brain tissue 
+they supply. Cerebral infarcts are more common than spontaneous cerebral 
+haemorrhages. High blood pressure itself cannot directly rupture cerebral blood 
+vessels because their small size protects them and intracerebral haemorrhage 
+usually follows previous ischaemic vascular damage. It is obvious that lowering 
+blood pressure would reduce the risk and extent of bleeding into the brain once 
+a break in an arteriolar wall has occurred, but it is not clear why lowering 
+blood pressure should protect against cerebral infarction. One might expect that 
+slowing down the rate of cerebral blood flow would give more time for local 
+clots to form. It seems most likely that induced hypotension protects against 
+ischaemic strokes by preventing pressure- or ischaemia-induced arteriolar spasm 
+and by advantageous vasodilation of some of the more ischaemic territories. 
+Added protection can be provided by coenzyme-A reductase inhibitors (statins), 
+but probably not by antioxidants.
+SUMMARY: Lowering blood pressure strongly protects against ischaemic and 
+haemorrhagic stroke. Recent work shows that more accurate and faster diagnosis 
+of stroke pathology is urgently needed, so that appropriate treatment (e.g. with 
+tissue plasminogen activators) can be started before local bleeding has 
+occurred.
+
+DOI: 10.1097/00041552-200301000-00015
+PMID: 12496672 [Indexed for MEDLINE]
+
+
+21. Stroke. 2014 Sep;45(9):2582-7. doi: 10.1161/STROKEAHA.114.005252. Epub 2014 Aug 
+14.
+
+Combined effects of socioeconomic position, smoking, and hypertension on risk of 
+ischemic and hemorrhagic stroke.
+
+Nordahl H(1), Osler M(2), Frederiksen BL(2), Andersen I(2), Prescott E(2), 
+Overvad K(2), Diderichsen F(2), Rod NH(2).
+
+Author information:
+(1)From the Section of Social Medicine, Department of Public Health, University 
+of Copenhagen, Copenhagen, Denmark (H.N., I.A., F.D., N.H.R.); Research Center 
+for Prevention and Health, Glostrup University Hospital, Glostrup, Denmark 
+(M.O.); Clinical Research Centre, Hvidovre University Hospital, Copenhagen, 
+Denmark (B.L.F.); Department of Cardiology, Bispebjerg University Hospital and 
+the Copenhagen City Heart Study, Bispebjerg, Denmark (E.P.); and Section for 
+Epidemiology, Department of Public Health, Aarhus University, Aarhus, Denmark, 
+and Department of Cardiology, Aalborg University Hospital, Aalborg, Denmark 
+(K.O.). henor@sund.ku.dk.
+(2)From the Section of Social Medicine, Department of Public Health, University 
+of Copenhagen, Copenhagen, Denmark (H.N., I.A., F.D., N.H.R.); Research Center 
+for Prevention and Health, Glostrup University Hospital, Glostrup, Denmark 
+(M.O.); Clinical Research Centre, Hvidovre University Hospital, Copenhagen, 
+Denmark (B.L.F.); Department of Cardiology, Bispebjerg University Hospital and 
+the Copenhagen City Heart Study, Bispebjerg, Denmark (E.P.); and Section for 
+Epidemiology, Department of Public Health, Aarhus University, Aarhus, Denmark, 
+and Department of Cardiology, Aalborg University Hospital, Aalborg, Denmark 
+(K.O.).
+
+BACKGROUND AND PURPOSE: Combined effects of socioeconomic position and 
+well-established risk factors on stroke incidence have not been formally 
+investigated.
+METHODS: In a pooled cohort study of 68 643 men and women aged 30 to 70 years in 
+Denmark, we examined the combined effect and interaction between socioeconomic 
+position (ie, education), smoking, and hypertension on ischemic and hemorrhagic 
+stroke incidence by the use of the additive hazards model.
+RESULTS: During 14 years of follow-up, 3613 ischemic strokes and 776 hemorrhagic 
+strokes were observed. Current smoking and hypertension were more prevalent 
+among those with low education. Low versus high education was associated with 
+greater ischemic, but not hemorrhagic, stroke incidence. The combined effect of 
+low education and current smoking was more than expected by the sum of their 
+separate effects on ischemic stroke incidence, particularly among men: 134 (95% 
+confidence interval, 49-219) extra cases per 100 000 person-years because of 
+interaction, adjusted for age, cohort study, and birth cohort. There was no 
+clear evidence of interaction between low education and hypertension. The 
+combined effect of current smoking and hypertension was more than expected by 
+the sum of their separate effects on ischemic and hemorrhagic stroke incidence. 
+This effect was most pronounced for ischemic stroke among women: 178 (95% 
+confidence interval, 103-253) extra cases per 100 000 person-years because of 
+interaction, adjusted for age, cohort study, and birth cohort.
+CONCLUSIONS: Reducing smoking in those with low socioeconomic position and in 
+those with hypertension could potentially reduce social inequality stroke 
+incidence.
+
+© 2014 American Heart Association, Inc.
+
+DOI: 10.1161/STROKEAHA.114.005252
+PMID: 25123220 [Indexed for MEDLINE]

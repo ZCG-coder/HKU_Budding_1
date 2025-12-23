@@ -1,0 +1,46 @@
+clinical health
+- save patients 1 at a time
+
+public health
+- saving more lives
+- change knowledge / attitude through education
+- change practice
+
+global health
+-> public health -> global health
+
+health system
+- health bureau （醫務衞生處）
+    - dpmt of health - mgmt of public health
+    - hospital authority 醫院管理局
+- other dpmts
+- United Nations (聯合國) | no direct relationships with HKSAR
+    - WHO
+    - UNICEF (UN Children Fund)
+    - World Bank 世界銀行
+(- Social welfare dpmt 社會福利處)
+
+Public / Private <- private hospitals
+
+Winter flu peak 高峰期
+"how to know if it's flu peak?" -> look at past data
+10 patients with severe complication of influenza
+
+conventional or innovative ways
+influenza surveillance 監察
+systematic surveillance - systematic collection of data
+representative sample （代表性樣本）
+-> not necessarily true
+
+WHO GISRS(global influenza surveillance and response system)
+global mechanism of surveillance, preparedness and response for for seasonal, pandemic, and zoonotic influenza
+global platform for monitoring epidemiology and disease
+global alert for novel influenza viruses / pathogens
+
+SLOGANS CANNOT CHANGE THE WORLD
+
+UN SDG (sustainable development goals)
+AMR strategy (antimicrobial resistance)
+antimicrobiotics -> how to solve?
+* doctors: overprescribe?
+* patients: biggest consumer
