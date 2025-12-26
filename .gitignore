@@ -13,3 +13,5 @@ ipython_config.py
 
 # Datasets - publicly availablesss
 *.sas7bdat
+
+~$_*.docx
